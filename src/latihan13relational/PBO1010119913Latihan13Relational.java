@@ -7,9 +7,12 @@ package latihan13relational;
 
 /**
  *
- * @author Lenovo
+ * @author Muhammad Alvin Rizqi Ramadhan
+ * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Relational
  */
-public class Latihan13Relational {
+public class PBO1010119913Latihan13Relational {
 
     /**
      * @param args the command line arguments
